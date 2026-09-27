@@ -1,0 +1,8 @@
+server/store.db*
+server/.venv/
+__pycache__/
+*.pyc
+*.exe
+/velotochka
+/velotochka-ci
+.DS_Store
